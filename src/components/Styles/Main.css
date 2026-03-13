@@ -1,0 +1,47 @@
+main{
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+
+}
+#listItem{
+    padding: 6px;
+    border-radius: 50%;
+}
+input{
+    padding-right: 60px;
+    border: 1px solid black;
+}
+#container{
+    height: 80vh;
+}
+#icon2{
+    border: 1px solid black;
+    padding: 8px;
+    border-radius: 50%;
+    background-color: white;
+}
+#input1{
+    border: none;
+}
+#input1:focus{
+    border: none;
+    outline: none;
+}
+#input1:hover{
+    box-shadow: 2px 2px 1px black;
+    border: none;
+    transition: all 0.1s;
+}
+
+#icon2{
+    border: none;
+}
+#icon2:hover{
+    border: none;
+    box-shadow: 1px 1px 1px black;
+    transition: all 0.7s;
+}
+.list2{
+    
+}
