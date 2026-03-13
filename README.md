@@ -18,6 +18,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 <b>Running Instructions</b> /<br>
 cd project<br>
-npm runn dev
+npm run dev
 
 With this the development server will start and projects works properly
